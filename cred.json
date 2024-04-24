@@ -1,0 +1,13 @@
+{
+    "MLFLOW_TRACKING_USERNAME": "admin",
+    "MLFLOW_TRACKING_PASSWORD": "password",
+    "MLFLOW_ENABLE_SYSTEM_METRICS_LOGGING": "true",
+    "AWS_DEFAULT_REGION": "eu-west-3",
+    "AWS_REGION": "eu-west-3",
+    "AWS_ACCESS_KEY_ID": "admin",
+    "AWS_SECRET_ACCESS_KEY": "test_password",
+    "MLFLOW_S3_ENDPOINT_URL": "http://172.24.5.222:9020",
+    "MLFLOW_TRACKING_URI": "https://ard-mlflow.slac.stanford.edu",
+    "MLFLOW_ENABLE_ARTIFACTS_PROGRESS_BAR": "false"
+  }
+  
